@@ -21,7 +21,7 @@
 - Ao testar a página que está sendo clonada, ao inserir login e senha na aba anônima do navegador, nem sempre ocorre um glitch. Em algumas ocasiões, somente uma página em branco é apresentada.
 - No terminal, nem sempre as opções de "Copy selection" e afins estarão funcionando, exigindo do usuário a adição das informações manualmente.
 
-### Resutados
+### Resultados
 
 ![Nome e senha do usuário do facebook mostrados nos campos "Possible username field found" e "Possible password field found" respectivamente ](./password.jpg)
 ![Página falsa do Facebook" ](./facebook_fake_login.jpg)
